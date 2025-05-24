@@ -24,3 +24,7 @@ terraform.rc
 
 # Plan output files
 *.tfplan
+
+docker/postgresql/data
+docker/postgresql/data/
+docker/postgresql/data/*
